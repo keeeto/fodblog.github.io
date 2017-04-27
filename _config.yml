@@ -32,9 +32,9 @@ navigation:
   - title: Articles
     url: /articles/
     desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
+  - title: Food Types
+    url: /food_types/
+    desc: Stuff we like to eat
   - title: Work
     url: /work/
     desc: Stuffs I hate to do
