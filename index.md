@@ -3,9 +3,10 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  Hi! this is the fodblog. Basically it's a site for us to collect a bunch of fodmap friendly recipies.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+  If you don't know what fodmap is, lucky you, you might still like some of the recipies but you won't *have* to eat *only*  them in order to stop your insides staging open revolt. 
+  
+    *F*ermentable *O*ligosaccharides, *D*isaccharides, *M*onosaccharides and *P*olyols. They are a collection of poorly absorbed simple and complex sugars that are found in a variety of fruits and vegetables and also in milk and wheat.  
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
 </div>
