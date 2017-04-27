@@ -34,7 +34,7 @@ navigation:
     url: /food_types/
     desc: Stuff we like to eat
   - title: Ingredients
-    url: /work/
+    url: /ingredients/
     desc: What goes in
   - title: About
     url: /about/
