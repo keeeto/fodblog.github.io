@@ -1,8 +1,8 @@
-One of the most shocking initial discoveries about the fodmap diet was that garlic was out. Pretty much 90 % of everything I cook starts with frying off garlic. So it's a huge relief to find out that actually it's the flesh of the garlic, not the flavour molecules that cause the hassle. So if you can just extract the flavour and leave behind the flesh then eveything's fine. 
+One of the most shocking initial discoveries about the fodmap diet was that garlic was out. Pretty much 90 % of everything I cook starts with frying off garlic. So it's a huge relief to find out that actually it's the flesh of the garlic, not the flavour molecules that cause the hassle. So if you can just extract the flavour and leave behind the flesh then everything's fine. 
 
 Happily this kind of extraction is easy too. The flavour in garlic comes from a bunch of different molecules, most of which are sulfur containing. The most prevalent, and that responsible for the 'hot' flavour of garlic is allicin, shown below. These molecules are lipophilic, which simply means they prefer to be in an oily surrounding than a watery one. 
 
-So, what's more oliy than garlic flesh? Oil, obviously. That means that with a little bit of heat to encourage the prcess it's easy to extact those good flavours into an oil, which can then be used to start the cooking process 90 % of the time!
+So, what's more oliy than garlic flesh? Oil, obviously. That means that with a little bit of heat to encourage the process it's easy to extract those good flavours into an oil, which can then be used to start the cooking process 90 % of the time!
 
 Another big saviour here is wild garlic - that'll be subject of a post very soon. But basically it seems to us that these delicious abundant green leaves with their garlic flavour are fodmap okay.
 
