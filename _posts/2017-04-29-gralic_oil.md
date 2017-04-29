@@ -6,7 +6,7 @@ So, what's more oliy than garlic flesh? Oil, obviously. That means that with a l
 
 Another big saviour here is wild garlic - that'll be subject of a post very soon. But basically it seems to us that these delicious abundant green leaves with their garlic flavour are fodmap okay.
 
-![Allicin](../assets/pictures/allicin.png)
+![Allicin]({{https://fodblog.github.io/}}/assets/pictures/allicin.png)
 
 	1 cup oil (vegetable, sunflower, olive, as you please)
 	6 cloves of garlic peeled
