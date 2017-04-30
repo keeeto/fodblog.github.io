@@ -29,3 +29,11 @@ One great seasonal alternative is wild garlic. See our post below.
 * [Wild garlic post](https://fodblog.github.io/2017/wild_garlic/)
 * [Wild garlic soup](https://fodblog.github.io/2017/wild_garlic_soup/)
 
+## Onion
+
+Onion is just as critical for cooking as garlic, maybe more so. It also suffers from the same fodmap incompatibility as garlic, because it is a plant root and stores many fructose sugars. And, just like garlic the solutions to using it in cooking are based in the extraction of the flavour into an oil.
+
+### Onion oil
+
+* [Garlic oil recipe.](https://fodblog.github.io/2017/garlic_oil/)
+
