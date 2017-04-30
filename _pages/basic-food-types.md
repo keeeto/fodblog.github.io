@@ -7,6 +7,9 @@ subtitle: What you need everyday
 
 ## Garlic
 
+One great seasonal alternative is wild garlic. 
+[### Wild garlic post](https://fodblog.github.io/2017/wild_garlic/)
+
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
 manu! Aquarum exclamat adulter tuos; et fuerit has levi gurgite movit, candentia
