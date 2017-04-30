@@ -35,5 +35,5 @@ Onion is just as critical for cooking as garlic, maybe more so. It also suffers 
 
 ### Onion oil
 
-* [Garlic oil recipe.](https://fodblog.github.io/2017/garlic_oil/)
+* [Onion oil recipe.](https://fodblog.github.io/2017/onion_oil/)
 
