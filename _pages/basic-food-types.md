@@ -10,8 +10,8 @@ subtitle: What you need everyday
 ### Wild garlic
 One great seasonal alternative is wild garlic. See our post below. 
 
-[Wild garlic post](https://fodblog.github.io/2017/wild_garlic/)
-[Wild garlic soup](https://fodblog.github.io/2017/wild_garlic_soup/)
+* [Wild garlic post](https://fodblog.github.io/2017/wild_garlic/)
+* [Wild garlic soup](https://fodblog.github.io/2017/wild_garlic_soup/)
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
