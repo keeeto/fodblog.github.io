@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Project
-permalink: projects/sample-project/
-subtitle: Sample project
+title: Basics
+permalink: food_types/basics/
+subtitle: What you need everyday
 ---
 
-## Liber orbes sternentemque nunc mortalia rotae supplex
+## Garlic
+
+### Wild garlic
+One great seasonal alternative is wild garlic. See our post below. 
+
+[Wild garlic post](https://fodblog.github.io/2017/wild_garlic/)
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
