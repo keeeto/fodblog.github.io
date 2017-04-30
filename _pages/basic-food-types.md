@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basics
-permalink: projects/sample-project/
+permalink: food_types/basics/
 subtitle: What you need everyday
 ---
 
