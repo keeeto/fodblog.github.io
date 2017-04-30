@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project
+title: Basics
 permalink: projects/sample-project/
-subtitle: Sample project
+subtitle: What you need everyday
 ---
 
-## Liber orbes sternentemque nunc mortalia rotae supplex
+## Garlic
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
