@@ -2,7 +2,7 @@ The source of the conflict between garlic and your gut is the abundance of fruct
 
 Wild garlic is a woodland plant that grows in Asia and Europa, it is a firm favourite of brown bears and wild boars. It is also a fantastically flavourful, aromatic and fresh alternative to garlic bulbs. It will not do the same thing as garlic and shouldn't be cooked in the same way, but as we are interested in using the leaf rather than the bulb, we don't have to deal with the fructose problem and we have certainly found that wild garlic leaves are fodmap friendly. 
 
-![Allicin]({{https://fodblog.github.io/}}/assets/pictures/wild_garlic.jpeg)
+![Allicin]({{https://fodblog.github.io/}}/assets/pictures/wild_garlic.gif)
 
 Wild garlic grows in the spring time on woodland floors. It has a relatively short an joyous period of growth, between the ending of the winter and the time when the tree canopy develops fully, restricting sunlight reaching the plant. During this burst the hillsides can covered with leaves cascading off the verges. Its a fantastic time to get out foraging in the woods. 
 
