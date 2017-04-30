@@ -1,3 +1,6 @@
+---
+title: Wild garlic soup
+---
 This soup is a variation on a basic potato soup. The wild garlic makes the soup a beautiful vibrant green colour. The flavour is has that deep garlicky satisfaction, but with a fresh springtime edge. Wild garlic can be obtained for free from a woodland floor near you. 
 
 See our [post on wild garlic](https://fodblog.github.io/2017/wild_garlic/). White wine is optional. 

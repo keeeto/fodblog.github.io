@@ -1,6 +1,3 @@
----
-title: Garlic oil
----
 One of the most shocking initial discoveries about the fodmap diet was that garlic was out. Pretty much 90 % of everything I cook starts with frying off garlic. So it's a huge relief to find out that actually it's the flesh of the garlic, not the flavour molecules that cause the hassle. So if you can just extract the flavour and leave behind the flesh then everything's fine. 
 
 Happily this kind of extraction is easy too. The flavour in garlic comes from a bunch of different molecules, most of which are sulfur containing. The most prevalent, and that responsible for the 'hot' flavour of garlic is allicin, shown below. These molecules are lipophilic, which simply means they prefer to be in an oily surrounding than a watery one. 

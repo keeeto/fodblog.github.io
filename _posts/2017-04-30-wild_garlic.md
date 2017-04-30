@@ -1,3 +1,6 @@
+---
+title: Wild Garlic
+---
 The source of the conflict between garlic and your gut is the abundance of fructose type sugars stored in the flesh of the clove. There's good reason for this, fructose is a far more efficient medium in which to store energy than glucose is. Plants store energy as chains (poly-saccharides) of fructose units linked together. Unfortunately you're intestines are largely unmoved by the delicate thermodynamic balances of nature and react badly to the presence of these concentrated fructose containing poly-saccharides.
 
 Wild garlic is a woodland plant that grows in Asia and Europa, it is a firm favourite of brown bears and wild boars. It is also a fantastically flavourful, aromatic and fresh alternative to garlic bulbs. It will not do the same thing as garlic and shouldn't be cooked in the same way, but as we are interested in using the leaf rather than the bulb, we don't have to deal with the fructose problem and we have certainly found that wild garlic leaves are fodmap friendly. 
