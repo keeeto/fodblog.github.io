@@ -1,5 +1,5 @@
 ---
-title: Wild Garlic
+title: Wild garlic
 ---
 The source of the conflict between garlic and your gut is the abundance of fructose type sugars stored in the flesh of the clove. There's good reason for this, fructose is a far more efficient medium in which to store energy than glucose is. Plants store energy as chains (poly-saccharides) of fructose units linked together. Unfortunately you're intestines are largely unmoved by the delicate thermodynamic balances of nature and react badly to the presence of these concentrated fructose containing poly-saccharides.
 
