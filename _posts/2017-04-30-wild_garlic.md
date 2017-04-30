@@ -6,8 +6,8 @@ Wild garlic is a woodland plant that grows in Asia and Europa, it is a firm favo
 
 Wild garlic grows in the spring time on woodland floors. It has a relatively short an joyous period of growth, between the ending of the winter and the time when the tree canopy develops fully, restricting sunlight reaching the plant. During this burst the hillsides can covered with leaves cascading off the verges. Its a fantastic time to get out foraging in the woods. 
 
-A note of caution, wild garlic leaves have a similar appearance to some poisonous plants, like lily of the valley. The picture above helps to indentify the real deal.\* Luckily wild garlic also smells strongly of garlic/onion and is easily confirmed this way. 
+A note of caution, wild garlic leaves have a similar appearance to some poisonous plants, like lily of the valley. The picture above helps to identify the real deal.\* Luckily wild garlic also smells strongly of garlic/onion and is easily confirmed this way. 
 
-Over the coming weeks we'll post a series of delcious wild garlic recipies, including garlic butter, pesto, soup and more.
+Over the coming weeks we'll post a series of delicious wild garlic recipes, including garlic butter, pesto, soup and more.
 
 \*This beautiful image is taken from the American Society of Botanical artists website and is copyright of Derek Norman. If the owners of the image have any issue with us using it here, please contact us and we will remove it immediately.
