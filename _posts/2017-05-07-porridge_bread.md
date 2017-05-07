@@ -4,9 +4,11 @@ title: Porridge bread
 
 A filling wholesome bread based on just oats and yoghurt. So easy and so versatile. You can add all kinds of extra flavours to the basic mix to make speciality artisan loafs.
 
+The optional spices can be added individually, or together, you can experiment with different combos and add others.
+
 Inspiration/source: [anewu](http://www.anewu.ie/porridge-bread-recipe/)
 
-	1 tub low fat Greek yoghurt
+	1 tub low fat Greek yoghurt (500g)
 	Gluten free porridge oats (2 yoghurt tubs)
 	1 teaspoon salt
 	2 teaspoons baking soda
