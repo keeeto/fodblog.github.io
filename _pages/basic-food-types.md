@@ -18,4 +18,9 @@ subtitle: What you need everyday
 * [About onion and fodmap](https://fodblog.github.io/2017/onion/)
 * [Onion oil](https://fodblog.github.io/2017/onion_oil/)
 
+## Flour
+
+* [About flour/gluten and fodmap](https://fodblog.github.io/ingredients/gluten_free/)
+* [Porridge bread](https://fodblog.github.io/2017/porridge_bread/)
+
 
