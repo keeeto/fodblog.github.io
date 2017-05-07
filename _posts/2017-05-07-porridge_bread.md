@@ -21,7 +21,7 @@ Inspiration/source: [anewu](http://www.anewu.ie/porridge-bread-recipe/)
 * Preheat the oven to 190 C
 * Add the yoghurt, oats, salt baking soda and any spices to a bowl
 * Mix until all oats are stuck together in a single mass
-* Grease the inside of a loaf tin ([how to grease a tin](https://hummingbirdbakery.com/blog/2012/05/how-to-line-or-grease-a-cake-tin/)) and line with greased greaseproof paper
+* Grease the inside of a (15 x 9 cm) loaf tin ([how to grease a tin](https://hummingbirdbakery.com/blog/2012/05/how-to-line-or-grease-a-cake-tin/)) and line with greased greaseproof paper
 * Spoon the mixture into the tin
 * Smooth and compact the mixture
 * Cut a groove (around 1 cm deep) down the middle of the mix
