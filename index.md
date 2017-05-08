@@ -14,11 +14,16 @@ layout: default
  
 There are many resources starting to appear online that are very useful for determining what is and what is not fodmap friendly. We have started to collect these resources on our useful links page.
 <br>
+<br>
  If you are anyhting like us it will be a learning experience of what is safe and what is not. It can be infuriatingly inconsistent, or at least seem that way. However, we have certainly found that the more we know about the important triggers the easier it is becoming to guess whether something will be one or not. 
+<br>
 <br>
 The recipes collected here are ones we've found to work, although it's probably safe to say everyone's triggers are a bit different. For example we've found that onion is actually not so bad (nonetheless we use onion substitutes in all recipes), although many may find it to be a huge problem. So, if you see recipes with something that you think is a trigger, then it's safe to say you should heed your intuition. You'll probably be right!
 <br>
+<br>
 The website is as much an archive for our own use as a shared resource. Do feel free to get in touch if you have comments or suggestions. One thing that would be great would be to get suggested recipes, so that the site is not restricted to our narrow culinary experience.
+<br>
+<br>
 <br>
 
 \*These recipes work for us, they may not work for everyone. In posts we will try to flag up any elements that could be unfriendly to some.
