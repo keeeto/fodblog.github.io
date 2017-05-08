@@ -9,9 +9,13 @@ layout: default
   If you don't know what fodmap is, lucky you, you might still like some of the recipes but you won't *have* to eat *only*  them in order to stop your insides staging open revolt. 
   
   ![Mackerel]({{https://fodblog.github.io/}}/assets/pictures/mackerel.gif)
+<br>
+<br>
   
  **F**ermentable **O**ligosaccharides, **D**isaccharides, **M**onosaccharides and **P**olyols. They are a collection of poorly absorbed simple and complex sugars that are found in a variety of fruits and vegetables and also in milk and wheat. 
  
+<br>
+<br>
 There are many resources starting to appear online that are very useful for determining what is and what is not fodmap friendly. We have started to collect these resources on our useful links page.
 <br>
 <br>
