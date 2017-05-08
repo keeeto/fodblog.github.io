@@ -9,3 +9,4 @@ This is a collection of lighter meals to have in the middle of the day. Work is 
 
 
 * [Potato gherkin salad](https://fodblog.github.io/2017/potato_gherkin_salad/)
+* [Lemon sardine penne](https://fodblog.github.io/2017/sardines/)
