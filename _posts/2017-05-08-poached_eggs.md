@@ -4,7 +4,7 @@ title: Poached eggs
 
 I feel like poached eggs are the sirloin steak of egg servings. It is as simple a method as there is, the eggs speak for themselves and you can have them cooked to your own liking an hardness - obviously cooked white, runny yolk is optimal!
 
-Like steak, because it is so simple the quality if the eggs really matters. Ideally you want something with a vibrant orange yoke that will just burst open when you touch it, spreading a delicious sticky goo over the rest of the dish.
+Like steak, because it is so simple the quality if the eggs really matters. Ideally you want something with a vibrant oragne yoke that will just burst open when you touch it, spreading a delicious sticky goo over the rest of the dish.
 
 Also like steak, everyone has a way to cook poached eggs. I don't pretend for a second that this is the final word, but it works for me. 
 

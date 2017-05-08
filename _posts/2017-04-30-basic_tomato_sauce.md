@@ -19,4 +19,3 @@ Use the recipes for [garlic](https://fodblog.github.io/2017/garlic_oil/) and [on
 * Add the onion and garlic oils. 
 * Add in the tomatoes, sugar, salt and pepper.
 * Cook for 15 - 20 minutes for a fresh light sauce, leave for longer to achieve a deeper richer flavour.
-

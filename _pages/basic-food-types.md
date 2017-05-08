@@ -23,4 +23,3 @@ subtitle: What you need everyday
 * [About flour/gluten and fodmap](https://fodblog.github.io/ingredients/gluten_free/)
 * [Porridge bread](https://fodblog.github.io/2017/porridge_bread/)
 
-
