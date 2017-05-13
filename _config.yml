@@ -1,5 +1,13 @@
 # The main config file for your Jekyll template
-
+# Where things go
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
+  my_tags:
+    output: true
+    permalink: /blog/tag/:name/
+    
 # Site settings
 title: FodBlog               # used for the html title of every page
 desc: >
@@ -65,7 +73,4 @@ exclude:
 gems:
   - jekyll-paginate
 
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
+
