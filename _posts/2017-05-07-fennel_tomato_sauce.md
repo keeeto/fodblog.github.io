@@ -1,5 +1,6 @@
 ---
 title: Fennel tomato sauce
+category: sauce
 tags: [sauce, tomato]
 ---
 Based on the basic toamto sauce recipe. The addition of fennel is great if you are serving with pork or seafood - or both. Simple addition of fennel seeds at the start leads to a rich background aniseed flavour.
