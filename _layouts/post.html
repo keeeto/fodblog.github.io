@@ -26,9 +26,7 @@ layout: default
     </time>
   </header>
     
-  <p class="m-t-3 text-muted font-italic">
-    <small>Posted{% if category_content %} in </small>{{ category_content }}{% endif %}
-  </p>
+<p id="post-meta">Posted in: {{ category_content }}</p>
     
   <div class="post-content pretty-links">
     {{ content }}
