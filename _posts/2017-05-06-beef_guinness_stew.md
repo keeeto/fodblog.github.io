@@ -1,5 +1,7 @@
 ---
 title: Jerk Guinness Beef Stew
+category: dinner
+tags: [beef, stew]
 ---
 
 This stew is a great winter warmer, the Guinness gives the sauce deep complex caramel tones, while the jerk sauce gives an up-front jolt that keeps warming as the stew goes down. Beef shin is a good cut for this stew, it has just the right amount of fat to give real flavour and body to the sauce. 
