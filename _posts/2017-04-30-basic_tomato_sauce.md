@@ -1,5 +1,7 @@
 ---
 title: Simple tomato sauce
+category: sauces
+tags: [tomato, pasta]
 ---
 A basic tasty tomato sauce is the basis of so many meals. If you can master this very simple recipe then you can do variations on it - make it richer or fresher as you like. You can add in herbs and spices, for example if you want it to taste Mexican add cumin and paprika, if you're after an Italian flavour add oregano or basil etc etc. 
 
