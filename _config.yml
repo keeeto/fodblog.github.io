@@ -45,8 +45,8 @@ navigation:
   - title: Ingredients
     url: /ingredients/
     desc: What goes in
-  - title: About
-    url: /about/
+  - title: Recipes
+    url: https://fodblog.github.io/blog/tag/recipes/
     desc: Learn about us
 
 # Used by Jekyll to recognize what is a post and what is a page
