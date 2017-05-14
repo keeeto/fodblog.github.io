@@ -1,5 +1,7 @@
 ---
 title: Egg in a cup
+category: breakfast
+tags: egg
 ---
 
 Initailly people scoff at this recipe as somewhat childish. Then they try it - it is easy, simple, clean and tasty. A really smart way to start the day.
