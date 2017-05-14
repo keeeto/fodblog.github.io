@@ -16,4 +16,4 @@ and call them inside for their tea."
 So there you have it, tea is a meal you have in the afternoon. Whatever it is you get up to before tea is your choice really, but make sure tea is a good one. It's the last meal of the day and you want to end on a high!
 
 
-* [Cheesy baked eggs](https://fodblog.github.io/2017/baked_egg/)
+A full list of teas can be found at [this link](https://fodblog.github.io/food_types/teas/).
