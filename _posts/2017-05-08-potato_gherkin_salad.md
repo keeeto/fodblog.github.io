@@ -1,7 +1,7 @@
 ---
 title: Potato gherkin salad
 category: lunch
-tags: [potato, cheese, salad]
+tags: [potato, cheese, salad, recipes]
 ---
 
 This is a fresh, light take on potato salad. Generally I find potato salad pretty overly stodgy swimming in heavy mayo. In this version the introduction of pickled gherkin and capers cuts right through the stodge - also I recommend the use of far less mayo than normal. If you don't like mayo at all, try replacing it with a mustard and balsamic dressing.

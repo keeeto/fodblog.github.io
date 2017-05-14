@@ -1,7 +1,7 @@
 ---
 title: Byzantine Eggs
 category: breakfast
-tags: [egg, middle_east]
+tags: [egg, middle_east, recipes]
 ---
 The name is a little bit tongue-in-cheek pretentious. This is a variation on classic eggs florentine. I find hollandaise sauce to be a little too heavy for my early morning tastes. This variation brings in the fragrant touches of middle-eastern zatar as well as the zingy sourness of sumac to give it a fresh feel.
 

@@ -1,7 +1,7 @@
 ---
 title: Wild garlic soup
 category: lunch
-tags: [wild_garlic, soup, garlic]
+tags: [wild_garlic, soup, garlic, recipes]
 ---
 This soup is a variation on a basic potato soup. The wild garlic makes the soup a beautiful vibrant green colour. The flavour is has that deep garlicky satisfaction, but with a fresh springtime edge. Wild garlic can be obtained for free from a woodland floor near you. 
 

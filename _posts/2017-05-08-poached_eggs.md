@@ -1,7 +1,7 @@
 ---
 title: Poached eggs
 category: breakfast
-tags: egg
+tags: egg, recipes
 ---
 
 I feel like poached eggs are the sirloin steak of egg servings. It is as simple a method as there is, the eggs speak for themselves and you can have them cooked to your own liking an hardness - obviously cooked white, runny yolk is optimal!
