@@ -1,5 +1,7 @@
 ---
 title: Porridge bread
+category: baking
+tags: bread
 ---
 
 A filling wholesome bread based on just oats and yoghurt. So easy and so versatile. You can add all kinds of extra flavours to the basic mix to make speciality artisan loafs.
