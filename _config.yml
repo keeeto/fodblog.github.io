@@ -1,5 +1,6 @@
 # The main config file for your Jekyll template
-# Where things go
+
+# Where things are
 collections:
   my_categories:
     output: true
