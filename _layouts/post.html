@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign post = page %}
+{% capture post_subtitle %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b. %d, %Y' }}</time>{% endcapture %}
 
 <article class="post">
 
