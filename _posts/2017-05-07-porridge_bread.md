@@ -10,7 +10,7 @@ The optional spices can be added individually, or together, you can experiment w
 
 Inspiration/source: [anewu](http://www.anewu.ie/porridge-bread-recipe/)
 
-	1 tub low fat Greek yoghurt (500g)
+	1 tub lactose free Greek yoghurt (500g)
 	Gluten free porridge oats (2 yoghurt tubs)
 	1 teaspoon salt
 	2 teaspoons baking soda

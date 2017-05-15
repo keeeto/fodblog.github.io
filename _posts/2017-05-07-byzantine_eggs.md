@@ -3,6 +3,17 @@ title: Byzantine Eggs
 category: breakfast
 tags: [egg, middle_east, recipes]
 ---
+	That is no country for old men. The young 
+	In one another's arms, birds in the trees, 
+	—Those dying generations—at their song, 
+	The salmon-falls, the mackerel-crowded seas, 
+	Fish, flesh, or fowl, commend all summer long 
+	Whatever is begotten, born, and dies. 
+	Caught in that sensual music all neglect 
+	Monuments of unageing intellect.
+	
+*Sailing to Byzantium* **WB Yeats**
+
 The name is a little bit tongue-in-cheek pretentious. This is a variation on classic eggs florentine. I find hollandaise sauce to be a little too heavy for my early morning tastes. This variation brings in the fragrant touches of middle-eastern zatar as well as the zingy sourness of sumac to give it a fresh feel.
 
 
