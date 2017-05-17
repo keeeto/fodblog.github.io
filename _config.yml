@@ -74,4 +74,5 @@ exclude:
 gems:
   - jekyll-paginate
 
-
+# Google services
+google_analytics: UA-99249413-1
