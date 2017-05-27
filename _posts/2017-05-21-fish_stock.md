@@ -9,7 +9,7 @@ tags: [fish, soup, stock, recipes]
 	Fish heads fish heads
 	Eat them up, yum
 	
-**The fish head song** *Barnes and Barnes*	
+*The fish head song* **Barnes and Barnes**	
 	
 	
 
