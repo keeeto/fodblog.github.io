@@ -10,7 +10,7 @@ tags: [fish, japan, pickle, recipes]
 	Who wall up their backs against him.
 	They are handling the black and green lozenges like the parts of a body.
 	
-*Sylvia Plath* **Berck-Plage**
+ *Berck-Plage* **Sylvia Plath**
 
 Pickling is another method of cooking, without heat. The acidity of the vinegar has the same effect of denaturing proteins in meat and results in "cooked" flesh. When pickling it is possible to add a range of flavours to the pickle liqueur, which then infuse into the flesh of the picklee. 
 
