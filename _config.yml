@@ -42,8 +42,8 @@ navigation:
   - title: Food Types
     url: /food_types/
     desc: Stuff we like to eat
-  - title: Ingredients
-    url: /ingredients/
+  - title: Tags
+    url: /tags/
     desc: What goes in
   - title: Recipes
     url: https://fodblog.github.io/blog/tag/recipes/
