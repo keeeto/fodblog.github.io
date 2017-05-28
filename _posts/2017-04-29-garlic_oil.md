@@ -4,6 +4,11 @@ category: basics
 tags: [garlic, recipes]
 ---
 
+	Well lov'd he garlic, onions, and leeks,
+	And for to drink strong wine as red as blood.
+
+*The General Prologue* **Geoffrey Chaucer**	
+
 Not being able to cook with garlic can be one of the greatest initial challenges in fodmap cooking. Luckily, once you make a garlic extraction into oil, you have totally overcome the majority of this issue. This oil can then be used as the basis for starting to cook many of the recipes on this site.
 
 	1 cup oil (vegetable, sunflower, olive, as you please)
