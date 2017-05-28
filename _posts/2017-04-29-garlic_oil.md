@@ -1,7 +1,7 @@
 ---
 title: Garlic oil
 category: basics
-tags: garlic, recipes
+tags: [garlic, recipes]
 ---
 
 Not being able to cook with garlic can be one of the greatest initial challenges in fodmap cooking. Luckily, once you make a garlic extraction into oil, you have totally overcome the majority of this issue. This oil can then be used as the basis for starting to cook many of the recipes on this site.
