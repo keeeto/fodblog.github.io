@@ -1,7 +1,7 @@
 ---
 title: Pork meat balls 
 category: tea
-tags: [ pork, asian, recipe]
+tags: [ pork, asian, recipes]
 ---
 
 	We are the pigs
