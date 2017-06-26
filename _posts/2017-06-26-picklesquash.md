@@ -3,6 +3,12 @@ title: Porter-pickled butternut squash
 category: tea
 tags: [ pickle, middle_east, recipe]
 ---
+	In the pubs for seven years
+	Men have given him their ears
+	Buying the essence of his heart
+	With a porter-perfumed fart
+	
+*Bank holiday* **Patrick Kavanagh**
 
 Pickles are totally my thing. I love them, in fact I love any method of cooking without heat. Now, obviously this recipe below does require some heat, but there is pickling too, so I love it.
 
