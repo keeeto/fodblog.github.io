@@ -1,4 +1,3 @@
-
 ---
 layout: blog_by_tag
 slug: asian
