@@ -23,16 +23,16 @@ The basic omelette recipe is [here](https://fodblog.github.io/2017/omelette/). F
 	200g water
 	4 star anise
 	1/4 red cabbage, very finely shredded
-	2 handfuls of rough chopped (or baby) cavelo nero
+	2 handfuls of rough chopped (or baby) cavolo nero (or any green cabbage)
 	
 * Put the sugar, water, vinegar and star anise into a saucepan and bring to the boil
 * Take off the heat and allow to cool to room temperature
 * Add the red cabbage and allow to sit for 2 hours
 * Drain off the cabbage and store for use whenever
 * Crumble up the feta and mix with 3 tablespoons of the cabbage
-* Steam the cavelo nero for 3 minutes - set aside still over the hot water, but off the heat, this will keep it warm
+* Steam the cavolo nero for 3 minutes - set aside still over the hot water, but off the heat, this will keep it warm
 * Make the omelette as described [here](https://fodblog.github.io/2017/omelette/)
 * When the omelette is getting firm, spoon the cabbage and feta over on half of the omelette mix
 * Flip the other half over the top and cook for another 2 minutes to melt the cheese
-* Cut the resulting omelette in half and serve with the cavelo nero along side
+* Cut the resulting omelette in half and serve with the cavolo nero along side
 	
