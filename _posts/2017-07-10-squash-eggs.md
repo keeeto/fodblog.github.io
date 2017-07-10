@@ -1,7 +1,7 @@
 ---
 title: Poached egg with porter-pickled squash 
 category: breakfast
-tags: [ pickle, middle_east, egg, recipe]
+tags: [ pickle, middle_east, egg, recipes]
 ---
 
 	Rats get in too. Drink themselves bloated as big as a 
@@ -53,6 +53,6 @@ The flavours here are definitely a mixture of cuisines. The pickled squash was o
 * Drizzle over the top with the honey
 * Place the poached egg on top of the squash/feta
 * Sprinkle over with the salt, cinnamon and paprika
-* Serve quickly!ß
+* Serve quickly!
 	
 	
