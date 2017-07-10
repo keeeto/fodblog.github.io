@@ -7,7 +7,7 @@ tags: [mediterranean, egg, tomato, recipes]
 	An omelette on the ... Ho! ho! ho! ho! ... 
 	Omelette on the ...
 	
-*J. Joyce* **Ulysses** [Bella Cohen, the madame of the brothel in Circe].
+*Ulysses* **James Joyce** [Bella Cohen, the madame of the brothel in Circe].
 
 This is a lighter take on our usual denser brie based omelette. Using a caprese salad gives it a summer time feel, with fresh tomato and deep aniseed basil to wake you up.
 
