@@ -1,7 +1,7 @@
 ---
 title: Huevos rancheros 
 category: breakfast
-tags: [ eggs, Mexican, recipe]
+tags: [egg, mexican, recipes]
 ---
 
 	Soy una raya en el mar
