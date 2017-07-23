@@ -1,7 +1,7 @@
 ---
 title: Horseradish slaw 
-category: sauce
-tags: [ cabbage, recipe]
+category: sauces
+tags: [ cabbage, recipes]
 ---
 
 	So Maguire got tired
